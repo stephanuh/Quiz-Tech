@@ -1,12 +1,7 @@
 # Quiz-Tech
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This repository contains a fully functional Tech Quiz application built using the MERN stack. The goal of this project is to enhance the existing quiz app by implementing Cypress tests for both component and end-to-end testing.
 
 ## Table of Contents (Optional)
 
@@ -55,7 +50,16 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Features
 
-If your project has a lot of features, list them here.
+✅ Take a quiz with 10 random tech-related questions
+
+✅ View the final score after completing the quiz
+
+✅ Start a new quiz after finishing
+
+✅ Component tests for the Quiz component using Cypr
+ess
+
+✅ End-to-end tests to ensure smooth user interaction
 
 ## How to Contribute
 
