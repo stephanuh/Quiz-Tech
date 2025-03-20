@@ -1,9 +1,10 @@
-# Quiz Tech Application
+# Quiz Tech Application 👨‍💻
 ## Description
 The Quiz Tech application is a fully functional MERN-stack quiz app that allows users to test their knowledge in technology-related topics. It fetches random questions and displays them in an interactive UI, and tracks the users progress.
 
  The goal of this project is to enhance the existing quiz app by implementing Cypress tests for both component and end-to-end testing.
 
+ Click on the [video-walkthrough](img/Quiz-Tech.mp4) for demonstrations.
 ## Table of Contents
 
 - [Installation](#installation)
